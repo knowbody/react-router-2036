@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Should display the invalid checksum issue when refreshing the 'about' page",
   "scripts": {
-    "start": "node src/server.js"
+    "start": "webpack && node src/server.js"
   },
   "dependencies": {
     "babel-core": "^6.0.20",
