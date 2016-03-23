@@ -1,5 +1,5 @@
 {
-  "name": "react-router server/client render issue demo",
+  "name": "react-router-render-demo",
   "version": "1.0.0",
   "description": "Should display the invalid checksum issue when refreshing the 'about' page",
   "scripts": {
